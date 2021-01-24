@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bluetooth Wifi Indicator</string>
+
+    <string name="bluetooth_enabled">Bluetooth is Enabled</string>
+    <string name="bluetooth_disabled">Bluetooth is disabled</string>
+    <string name="switching_off_bluetooth">Switching off Bluetooth</string>
+    <string name="switching_on_bluetooth">Switching on Bluetooth</string>
+
+    <string name="wifi_enabled">WiFi is Enabled</string>
+    <string name="wifi_disabled">WiFi is disabled</string>
+
+</resources>
